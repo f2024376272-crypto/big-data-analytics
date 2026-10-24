@@ -1,0 +1,4 @@
+1. Make more 'owner review' content: 1.00 avg engagement per comment vs 0.48 for 'expert / first look review' (2.1x).
+2. Rework 'expert / first look review' content (lowest engagement, only 23% of comments get a like/reply).
+3. 'news / price / expo' posts get the most negative comments (45%). Prepare replies in advance.
+4. Positive comments get about 2x the engagement of negative ones. Reply to and highlight them.
